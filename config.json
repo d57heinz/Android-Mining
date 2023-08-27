@@ -1,18 +1,18 @@
 {
 	"pools":[
 	{
-		"name": "pool.verus.io",
-        "url": "stratum+tcp://pool.verus.io:9998",
+		"name": "Vipor.net",
+        "url": "stratum+tcp://us.vipor.net:5040",
 		"timeout": 150
 	},
 	{
-		"name": "pool.verus.io9999",
-        "url": "stratum+tcp://pool.verus.io:9999",
+		"name": "Vipor.net",
+        "url": "stratum+tcp://usmw.vipor.net:5040",
 		"timeout": 150,
 		"time-limit": 600
 	}],
 	
-	"user": "RAyjFHzENKthHF3o9cPHWq9YLTHnrUkRF7.s10lite",
+	"user": "RAyjFHzENKthHF3o9cPHWq9YLTHnrUkRF7.verus",
 	"algo": "verus",
 	"threads": 8,
 	"cpu-priority": 1,
